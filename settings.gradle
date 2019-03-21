@@ -1,0 +1,3 @@
+include 'rocketmq-normal','rocketmq-springboot'
+rootProject.name = 'qingfeng-mq'
+

@@ -1,0 +1,9 @@
+jar{
+    group="com.rocketmq.normal"
+    archiveName="rocketmq-normal"
+    version="1.0.0-SNAPSHOT"
+}
+
+dependencies{
+    api "org.apache.rocketmq:rocketmq-client:4.3.0"
+}
